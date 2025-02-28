@@ -7,6 +7,7 @@ Leetcode questions solved
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Nayan1729/Leetcode/tree/master/0050-powx-n) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Nayan1729/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -16,6 +17,7 @@ Leetcode questions solved
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/Nayan1729/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nayan1729/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Nayan1729/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2227-sum-of-subarray-ranges](https://github.com/Nayan1729/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Stack
 |  |
@@ -47,13 +49,16 @@ Leetcode questions solved
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Nayan1729/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nayan1729/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Nayan1729/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Nayan1729/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nayan1729/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Nayan1729/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Nayan1729/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Nayan1729/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
