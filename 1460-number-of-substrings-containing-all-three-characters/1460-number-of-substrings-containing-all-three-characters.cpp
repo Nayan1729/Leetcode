@@ -2,7 +2,7 @@ class Solution {
 public:
     int numberOfSubstrings(string a) {
         int freq[3] = {0}; // Frequency array for 'a', 'b', and 'c'
-        int r = 0, l = 0, n = a.length(), total = 0;
+        int r = 0, l = 0, n = a.length(), total = 0 ;
 
         while (r < n) {
             freq[a[r] - 'a']++; // Increment frequency of current character
