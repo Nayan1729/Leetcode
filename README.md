@@ -20,6 +20,7 @@ Leetcode questions solved
 | [0349-intersection-of-two-arrays](https://github.com/Nayan1729/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nayan1729/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Nayan1729/Leetcode/tree/master/0455-assign-cookies) |
+| [0560-subarray-sum-equals-k](https://github.com/Nayan1729/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0890-lemonade-change](https://github.com/Nayan1729/Leetcode/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/Nayan1729/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nayan1729/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -61,6 +62,7 @@ Leetcode questions solved
 | [0349-intersection-of-two-arrays](https://github.com/Nayan1729/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nayan1729/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nayan1729/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/Nayan1729/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nayan1729/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nayan1729/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nayan1729/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -74,6 +76,7 @@ Leetcode questions solved
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Nayan1729/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nayan1729/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nayan1729/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Two Pointers
