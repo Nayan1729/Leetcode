@@ -15,6 +15,7 @@ Leetcode questions solved
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Nayan1729/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Nayan1729/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nayan1729/Leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Nayan1729/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -87,6 +88,7 @@ Leetcode questions solved
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Nayan1729/Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Nayan1729/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Nayan1729/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nayan1729/Leetcode/tree/master/0349-intersection-of-two-arrays) |
