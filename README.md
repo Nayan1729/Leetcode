@@ -7,6 +7,7 @@ Leetcode questions solved
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Nayan1729/Leetcode/tree/master/0050-powx-n) |
+| [0944-smallest-range-i](https://github.com/Nayan1729/Leetcode/tree/master/0944-smallest-range-i) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nayan1729/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
@@ -28,6 +29,7 @@ Leetcode questions solved
 | [0890-lemonade-change](https://github.com/Nayan1729/Leetcode/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/Nayan1729/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nayan1729/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0944-smallest-range-i](https://github.com/Nayan1729/Leetcode/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/Nayan1729/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nayan1729/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nayan1729/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
