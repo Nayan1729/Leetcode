@@ -6,6 +6,7 @@ Leetcode questions solved
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Nayan1729/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Nayan1729/Leetcode/tree/master/0050-powx-n) |
 | [0944-smallest-range-i](https://github.com/Nayan1729/Leetcode/tree/master/0944-smallest-range-i) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nayan1729/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -18,6 +19,7 @@ Leetcode questions solved
 | ------- |
 | [0015-3sum](https://github.com/Nayan1729/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Nayan1729/Leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Nayan1729/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Nayan1729/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Nayan1729/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Nayan1729/Leetcode/tree/master/0055-jump-game) |
@@ -171,6 +173,7 @@ Leetcode questions solved
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Nayan1729/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Nayan1729/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Nayan1729/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
