@@ -28,6 +28,7 @@ Leetcode questions solved
 | [0209-minimum-size-subarray-sum](https://github.com/Nayan1729/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nayan1729/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Nayan1729/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nayan1729/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Nayan1729/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nayan1729/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nayan1729/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -142,6 +143,7 @@ Leetcode questions solved
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nayan1729/Leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nayan1729/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nayan1729/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -157,6 +159,7 @@ Leetcode questions solved
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Nayan1729/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nayan1729/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nayan1729/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Nayan1729/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nayan1729/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nayan1729/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -180,6 +183,7 @@ Leetcode questions solved
 | [0048-rotate-image](https://github.com/Nayan1729/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Nayan1729/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Nayan1729/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nayan1729/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nayan1729/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Simulation
 |  |
