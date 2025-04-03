@@ -49,6 +49,7 @@ Leetcode questions solved
 | [0966-binary-subarrays-with-sum](https://github.com/Nayan1729/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1044-find-common-characters](https://github.com/Nayan1729/Leetcode/tree/master/1044-find-common-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nayan1729/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Nayan1729/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1580-shuffle-the-array](https://github.com/Nayan1729/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nayan1729/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2227-sum-of-subarray-ranges](https://github.com/Nayan1729/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -147,6 +148,7 @@ Leetcode questions solved
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nayan1729/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/Nayan1729/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Nayan1729/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Nayan1729/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nayan1729/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
@@ -182,6 +184,7 @@ Leetcode questions solved
 | ------- |
 | [0268-missing-number](https://github.com/Nayan1729/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nayan1729/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Nayan1729/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Queue
 |  |
 | ------- |
@@ -202,4 +205,8 @@ Leetcode questions solved
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nayan1729/Leetcode/tree/master/0054-spiral-matrix) |
+## Counting
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Nayan1729/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
