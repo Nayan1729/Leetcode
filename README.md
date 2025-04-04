@@ -26,6 +26,7 @@ Leetcode questions solved
 | [0054-spiral-matrix](https://github.com/Nayan1729/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Nayan1729/Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Nayan1729/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Nayan1729/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Nayan1729/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nayan1729/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nayan1729/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -184,6 +185,7 @@ Leetcode questions solved
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Nayan1729/Leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Nayan1729/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nayan1729/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Nayan1729/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -211,4 +213,8 @@ Leetcode questions solved
 |  |
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Nayan1729/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Nayan1729/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
