@@ -9,6 +9,7 @@ Leetcode questions solved
 | [0048-rotate-image](https://github.com/Nayan1729/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Nayan1729/Leetcode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Nayan1729/Leetcode/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/Nayan1729/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0944-smallest-range-i](https://github.com/Nayan1729/Leetcode/tree/master/0944-smallest-range-i) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nayan1729/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Recursion
@@ -39,6 +40,7 @@ Leetcode questions solved
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nayan1729/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nayan1729/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Nayan1729/Leetcode/tree/master/0455-assign-cookies) |
+| [0523-continuous-subarray-sum](https://github.com/Nayan1729/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nayan1729/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nayan1729/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Nayan1729/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -102,6 +104,7 @@ Leetcode questions solved
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nayan1729/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nayan1729/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nayan1729/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/Nayan1729/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nayan1729/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nayan1729/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0808-number-of-matching-subsequences](https://github.com/Nayan1729/Leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -125,6 +128,7 @@ Leetcode questions solved
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nayan1729/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Nayan1729/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Nayan1729/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Nayan1729/Leetcode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nayan1729/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
