@@ -53,6 +53,7 @@ Leetcode questions solved
 | [0958-sort-array-by-parity-ii](https://github.com/Nayan1729/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nayan1729/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1044-find-common-characters](https://github.com/Nayan1729/Leetcode/tree/master/1044-find-common-characters) |
+| [1138-grumpy-bookstore-owner](https://github.com/Nayan1729/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nayan1729/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Nayan1729/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1580-shuffle-the-array](https://github.com/Nayan1729/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -125,6 +126,7 @@ Leetcode questions solved
 | [0424-longest-repeating-character-replacement](https://github.com/Nayan1729/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Nayan1729/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nayan1729/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1138-grumpy-bookstore-owner](https://github.com/Nayan1729/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nayan1729/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nayan1729/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
