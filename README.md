@@ -64,6 +64,7 @@ Leetcode questions solved
 | ------- |
 | [0402-remove-k-digits](https://github.com/Nayan1729/Leetcode/tree/master/0402-remove-k-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nayan1729/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Nayan1729/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2227-sum-of-subarray-ranges](https://github.com/Nayan1729/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -91,6 +92,7 @@ Leetcode questions solved
 | [0424-longest-repeating-character-replacement](https://github.com/Nayan1729/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0808-number-of-matching-subsequences](https://github.com/Nayan1729/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1044-find-common-characters](https://github.com/Nayan1729/Leetcode/tree/master/1044-find-common-characters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Nayan1729/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nayan1729/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Greedy
 |  |
