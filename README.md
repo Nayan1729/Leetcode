@@ -73,6 +73,7 @@ Leetcode questions solved
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nayan1729/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Nayan1729/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nayan1729/Leetcode/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/Nayan1729/Leetcode/tree/master/0392-is-subsequence) |
@@ -82,6 +83,7 @@ Leetcode questions solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nayan1729/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Nayan1729/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nayan1729/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/Nayan1729/Leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Nayan1729/Leetcode/tree/master/0402-remove-k-digits) |
@@ -137,6 +139,7 @@ Leetcode questions solved
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nayan1729/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Nayan1729/Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nayan1729/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Nayan1729/Leetcode/tree/master/0031-next-permutation) |
