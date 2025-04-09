@@ -149,6 +149,7 @@ Leetcode questions solved
 | [0031-next-permutation](https://github.com/Nayan1729/Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Nayan1729/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Nayan1729/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Nayan1729/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Nayan1729/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nayan1729/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Nayan1729/Leetcode/tree/master/0392-is-subsequence) |
@@ -164,6 +165,7 @@ Leetcode questions solved
 | [0088-merge-sorted-array](https://github.com/Nayan1729/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nayan1729/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Nayan1729/Leetcode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/Nayan1729/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Nayan1729/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nayan1729/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nayan1729/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -185,6 +187,7 @@ Leetcode questions solved
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nayan1729/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Nayan1729/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Nayan1729/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nayan1729/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quickselect
 |  |
@@ -247,4 +250,12 @@ Leetcode questions solved
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nayan1729/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Nayan1729/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Nayan1729/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
