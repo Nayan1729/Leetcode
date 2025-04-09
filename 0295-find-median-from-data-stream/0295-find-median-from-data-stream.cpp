@@ -1,28 +1,7 @@
-class MedianFinder {
+/*class MedianFinder {
 public:
-    /* This gives TLE
-    vector<int> a; 
-    MedianFinder() {
-        
-    }
     
-    void addNum(int num) {
-        a.push_back(num);
-    }
-    
-    double findMedian() {
-        sort(a.begin(),a.end());
-        int size = a.size();
-        int n = size / 2;
-        if((size & 1) == 0){ // Even
-            return  (a[n - 1 ] + a[n] )/2.0;
-        }else{ // Odd
-            return a[n];
-        }
-        return 0;
-    }
-    */
-    // Use heap
+    // Use heaps but the complex approach
     priority_queue<int>  maxpq;
     priority_queue<int , vector<int>,greater<int>> minpq;
     MedianFinder() {
@@ -51,6 +30,44 @@ public:
                 minpq.push(maxTop);
                 // Pop from the max
                 maxpq.pop();
+        }
+    }
+    
+    double findMedian() {
+        int m = maxpq.size() , n = minpq.size();
+        if( m == n){
+            return (maxpq.top() + minpq.top())/2.0;
+        }else if (m > n ){
+            return maxpq.top();
+        }else{
+            return minpq.top();
+        }
+        return 0;
+    }
+};
+*/
+class MedianFinder {
+public:
+    priority_queue<int>  maxpq;
+    priority_queue<int , vector<int>,greater<int>> minpq;
+    MedianFinder() {
+        
+    }
+    
+    void addNum(int num) {
+        if(maxpq.empty() || maxpq.top() > num){
+            maxpq.push(num);
+        }else{
+            minpq.push(num);
+        }
+        int m = maxpq.size() , n = minpq.size();
+        if( m > n + 1){
+            // Pop from max and push its top in the min to balance
+            minpq.push(maxpq.top());
+            maxpq.pop();
+        }else if ( n > m + 1){
+            maxpq.push(minpq.top());
+            minpq.pop();
         }
     }
     
