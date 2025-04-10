@@ -64,6 +64,7 @@ Leetcode questions solved
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Nayan1729/Leetcode/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/Nayan1729/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nayan1729/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Nayan1729/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2227-sum-of-subarray-ranges](https://github.com/Nayan1729/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -80,6 +81,7 @@ Leetcode questions solved
 | [0053-maximum-subarray](https://github.com/Nayan1729/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nayan1729/Leetcode/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/Nayan1729/Leetcode/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Nayan1729/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0808-number-of-matching-subsequences](https://github.com/Nayan1729/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nayan1729/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## String
@@ -91,6 +93,7 @@ Leetcode questions solved
 | [0392-is-subsequence](https://github.com/Nayan1729/Leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Nayan1729/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nayan1729/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Nayan1729/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0808-number-of-matching-subsequences](https://github.com/Nayan1729/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1044-find-common-characters](https://github.com/Nayan1729/Leetcode/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Nayan1729/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -101,6 +104,7 @@ Leetcode questions solved
 | [0055-jump-game](https://github.com/Nayan1729/Leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Nayan1729/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Nayan1729/Leetcode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Nayan1729/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Nayan1729/Leetcode/tree/master/0890-lemonade-change) |
 ## Hash Table
 |  |
