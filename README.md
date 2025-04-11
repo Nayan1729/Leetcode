@@ -63,6 +63,7 @@ Leetcode questions solved
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Nayan1729/Leetcode/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Nayan1729/Leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Nayan1729/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nayan1729/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -260,6 +261,7 @@ Leetcode questions solved
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Nayan1729/Leetcode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/Nayan1729/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
