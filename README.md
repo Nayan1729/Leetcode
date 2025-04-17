@@ -54,6 +54,7 @@ Leetcode questions solved
 | [0966-binary-subarrays-with-sum](https://github.com/Nayan1729/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1044-find-common-characters](https://github.com/Nayan1729/Leetcode/tree/master/1044-find-common-characters) |
 | [1138-grumpy-bookstore-owner](https://github.com/Nayan1729/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1140-distant-barcodes](https://github.com/Nayan1729/Leetcode/tree/master/1140-distant-barcodes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nayan1729/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Nayan1729/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nayan1729/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -108,6 +109,7 @@ Leetcode questions solved
 | [0455-assign-cookies](https://github.com/Nayan1729/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Nayan1729/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Nayan1729/Leetcode/tree/master/0890-lemonade-change) |
+| [1140-distant-barcodes](https://github.com/Nayan1729/Leetcode/tree/master/1140-distant-barcodes) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +125,7 @@ Leetcode questions solved
 | [0808-number-of-matching-subsequences](https://github.com/Nayan1729/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nayan1729/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1044-find-common-characters](https://github.com/Nayan1729/Leetcode/tree/master/1044-find-common-characters) |
+| [1140-distant-barcodes](https://github.com/Nayan1729/Leetcode/tree/master/1140-distant-barcodes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nayan1729/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nayan1729/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nayan1729/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -183,6 +186,7 @@ Leetcode questions solved
 | [0808-number-of-matching-subsequences](https://github.com/Nayan1729/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0941-sort-array-by-parity](https://github.com/Nayan1729/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Nayan1729/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1140-distant-barcodes](https://github.com/Nayan1729/Leetcode/tree/master/1140-distant-barcodes) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Nayan1729/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nayan1729/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
@@ -198,6 +202,7 @@ Leetcode questions solved
 | [0239-sliding-window-maximum](https://github.com/Nayan1729/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Nayan1729/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nayan1729/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1140-distant-barcodes](https://github.com/Nayan1729/Leetcode/tree/master/1140-distant-barcodes) |
 ## Quickselect
 |  |
 | ------- |
@@ -247,6 +252,7 @@ Leetcode questions solved
 ## Counting
 |  |
 | ------- |
+| [1140-distant-barcodes](https://github.com/Nayan1729/Leetcode/tree/master/1140-distant-barcodes) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Nayan1729/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Backtracking
 |  |
