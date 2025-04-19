@@ -38,6 +38,7 @@ Leetcode questions solved
 | [0349-intersection-of-two-arrays](https://github.com/Nayan1729/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nayan1729/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nayan1729/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/Nayan1729/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nayan1729/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Nayan1729/Leetcode/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/Nayan1729/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -84,6 +85,7 @@ Leetcode questions solved
 | [0053-maximum-subarray](https://github.com/Nayan1729/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nayan1729/Leetcode/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/Nayan1729/Leetcode/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Nayan1729/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Nayan1729/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0808-number-of-matching-subsequences](https://github.com/Nayan1729/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nayan1729/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -106,6 +108,7 @@ Leetcode questions solved
 | ------- |
 | [0055-jump-game](https://github.com/Nayan1729/Leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Nayan1729/Leetcode/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/Nayan1729/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Nayan1729/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Nayan1729/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Nayan1729/Leetcode/tree/master/0890-lemonade-change) |
@@ -181,6 +184,7 @@ Leetcode questions solved
 | [0349-intersection-of-two-arrays](https://github.com/Nayan1729/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nayan1729/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nayan1729/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/Nayan1729/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Nayan1729/Leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nayan1729/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0808-number-of-matching-subsequences](https://github.com/Nayan1729/Leetcode/tree/master/0808-number-of-matching-subsequences) |
