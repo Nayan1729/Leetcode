@@ -281,4 +281,8 @@ Leetcode questions solved
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Nayan1729/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Nayan1729/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
