@@ -57,6 +57,7 @@ Leetcode questions solved
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Nayan1729/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1138-grumpy-bookstore-owner](https://github.com/Nayan1729/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1140-distant-barcodes](https://github.com/Nayan1729/Leetcode/tree/master/1140-distant-barcodes) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Nayan1729/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nayan1729/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Nayan1729/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nayan1729/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -192,6 +193,7 @@ Leetcode questions solved
 | [0941-sort-array-by-parity](https://github.com/Nayan1729/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Nayan1729/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1140-distant-barcodes](https://github.com/Nayan1729/Leetcode/tree/master/1140-distant-barcodes) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Nayan1729/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Nayan1729/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nayan1729/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
@@ -251,6 +253,7 @@ Leetcode questions solved
 | [0074-search-a-2d-matrix](https://github.com/Nayan1729/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nayan1729/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nayan1729/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Nayan1729/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 ## Simulation
 |  |
 | ------- |
