@@ -6,8 +6,9 @@ public:
         for( i = 0 ; i < ( 1 << n  ) ; i++ ){
             vector<int> v;
             for(j = 0 ; j < n ; j++){
-                if( i >> j & 1  ){
-                    v.push_back(a[j ]);
+                int x = ( 1 << j );
+                if( (i & x ) != 0  ){
+                    v.push_back(a[j]);
                 }
             }
             ans.push_back(v);
